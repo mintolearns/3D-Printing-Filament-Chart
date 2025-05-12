@@ -1,0 +1,37 @@
+{
+    "PLA": {
+        "nozzle_temp_c": "200-220",
+        "bed_temp_c": "60",
+        "fan_speed_percent": "100",
+        "flow_ratio": "1.00",
+        "special_notes": "Easy to print, ideal for beginners"
+    },
+    "ABS": {
+        "nozzle_temp_c": "230-250",
+        "bed_temp_c": "100",
+        "fan_speed_percent": "0-30",
+        "flow_ratio": "1.00",
+        "special_notes": "Requires enclosure, warps easily"
+    },
+    "PETG": {
+        "nozzle_temp_c": "230-250",
+        "bed_temp_c": "70-80",
+        "fan_speed_percent": "50-70",
+        "flow_ratio": "1.00",
+        "special_notes": "Good for functional prints, strong adhesion"
+    },
+    "TPU": {
+        "nozzle_temp_c": "220-240",
+        "bed_temp_c": "50",
+        "fan_speed_percent": "50",
+        "flow_ratio": "1.05",
+        "special_notes": "Flexible filament, slow print speeds"
+    },
+    "Elegoo PLA": {
+        "nozzle_temp_c": "225",
+        "bed_temp_c": "45",
+        "fan_speed_percent": "100",
+        "flow_ratio": "0.97",
+        "special_notes": "Use Generic PLA profile, calibrate flow"
+    }
+}
